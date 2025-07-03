@@ -34,6 +34,6 @@ javac EmployeeDBApp.java
 java -cp .;mysql-connector-java-8.0.33.jar EmployeeDBApp
 
 ## Sample Output
-![image_alt]()
+![image_alt](https://github.com/tanu-pande/Employee-Database-App/blob/656f0d3a30facd956a4b15d80b1639305c484847/Screenshot%202025-07-03%20191046.png)
 ![image_alt]()
 ![image_alt]()
